@@ -1,7 +1,27 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\work\\sscronet\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5CFDC1-EE5F-46DD-B1CB-A1B44BEC8D96}|sscronet.vcxproj|E:\\work\\sscronet\\sscronet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED5CFDC1-EE5F-46DD-B1CB-A1B44BEC8D96}|sscronet.vcxproj|solutionrelative:sscronet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5CFDC1-EE5F-46DD-B1CB-A1B44BEC8D96}|sscronet.vcxproj|E:\\work\\sscronet\\sscronet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED5CFDC1-EE5F-46DD-B1CB-A1B44BEC8D96}|sscronet.vcxproj|solutionrelative:sscronet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5CFDC1-EE5F-46DD-B1CB-A1B44BEC8D96}|sscronet.vcxproj|E:\\work\\sscronet\\GURL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED5CFDC1-EE5F-46DD-B1CB-A1B44BEC8D96}|sscronet.vcxproj|solutionrelative:GURL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5CFDC1-EE5F-46DD-B1CB-A1B44BEC8D96}|sscronet.vcxproj|E:\\work\\sscronet\\GURL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED5CFDC1-EE5F-46DD-B1CB-A1B44BEC8D96}|sscronet.vcxproj|solutionrelative:GURL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5CFDC1-EE5F-46DD-B1CB-A1B44BEC8D96}|sscronet.vcxproj|C:\\PROGRAM FILES (X86)\\ANDROID\\ANDROIDNDK\\ANDROID-NDK-R23C\\SOURCES\\CXX-STL\\LLVM-LIBC\u002B\u002B\\INCLUDE\\OPTIONAL||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +29,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GURL.cpp",
+              "DocumentMoniker": "E:\\work\\sscronet\\GURL.cpp",
+              "RelativeDocumentMoniker": "GURL.cpp",
+              "ToolTip": "E:\\work\\sscronet\\GURL.cpp",
+              "RelativeToolTip": "GURL.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-25T12:40:34.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GURL.h",
+              "DocumentMoniker": "E:\\work\\sscronet\\GURL.h",
+              "RelativeDocumentMoniker": "GURL.h",
+              "ToolTip": "E:\\work\\sscronet\\GURL.h",
+              "RelativeToolTip": "GURL.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-25T12:09:52.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "optional",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Android\\AndroidNDK\\android-ndk-r23c\\sources\\cxx-stl\\llvm-libc\u002B\u002B\\include\\optional",
+              "ToolTip": "C:\\Program Files (x86)\\Android\\AndroidNDK\\android-ndk-r23c\\sources\\cxx-stl\\llvm-libc\u002B\u002B\\include\\optional",
+              "ViewState": "AgIAAN0DAAAAAAAAAADwv+4DAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-25T10:38:13.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sscronet.cpp",
+              "DocumentMoniker": "E:\\work\\sscronet\\sscronet.cpp",
+              "RelativeDocumentMoniker": "sscronet.cpp",
+              "ToolTip": "E:\\work\\sscronet\\sscronet.cpp",
+              "RelativeToolTip": "sscronet.cpp",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv6gAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-25T09:29:46.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sscronet.h",
+              "DocumentMoniker": "E:\\work\\sscronet\\sscronet.h",
+              "RelativeDocumentMoniker": "sscronet.h",
+              "ToolTip": "E:\\work\\sscronet\\sscronet.h",
+              "RelativeToolTip": "sscronet.h",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwIUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-25T09:29:43.679Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
